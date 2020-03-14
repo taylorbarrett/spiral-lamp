@@ -21,14 +21,4 @@ Materials used:
 
 *Click to read build thread on [Medium](https://medium.com/@taylorlucasbarrett/digital-fabrication-project-3-88169b900440).*
 
-<a href="https://medium.com/@taylorlucasbarrett/digital-fabrication-project-2-learning-curves-79b2128f1427"><img src="https://github.com/taylorbarrett/Hexagon_Lamp/blob/master/IMG_20200219_105924.jpg" width="100%" alt="HEXLAMP"></a>
-
-<a href="https://medium.com/@taylorlucasbarrett/digital-fabrication-project-2-learning-curves-79b2128f1427"><img src="https://github.com/taylorbarrett/Hexagon_Lamp/blob/master/IMG_20200219_105919.jpg" width="100%" alt="HEXLAMP"></a>
-
-<a href="https://medium.com/@taylorlucasbarrett/digital-fabrication-project-2-learning-curves-79b2128f1427"><img src="https://github.com/taylorbarrett/Hexagon_Lamp/blob/master/IMG_20200219_005116.jpg" width="100%" alt="HEXLAMP"></a>
-
-<a href="https://medium.com/@taylorlucasbarrett/digital-fabrication-project-2-learning-curves-79b2128f1427"><img src="https://github.com/taylorbarrett/Hexagon_Lamp/blob/master/IMG_20200218_224045.jpg" width="100%" alt="HEXLAMP"></a>
-
-<a href="https://medium.com/@taylorlucasbarrett/digital-fabrication-project-2-learning-curves-79b2128f1427"><img src="https://github.com/taylorbarrett/Hexagon_Lamp/blob/master/IMG_20200218_184949.jpg" width="100%" alt="HEXLAMP"></a>
-
-<a href="https://medium.com/@taylorlucasbarrett/digital-fabrication-project-2-learning-curves-79b2128f1427"><img src="https://github.com/taylorbarrett/Hexagon_Lamp/blob/master/IMG_20200217_100602.jpg" width="100%" alt="HEXLAMP"></a>
+<a href="https://medium.com/@taylorlucasbarrett/digital-fabrication-project-3-88169b900440"><img src="https://github.com/taylorbarrett/spiral-lamp/blob/master/IMG_20200304_125509.jpg" width="100%" alt="spiral_lamp"></a>
