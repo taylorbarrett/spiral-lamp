@@ -21,4 +21,4 @@ Materials used:
 
 *Click to read build thread on [Medium](https://medium.com/@taylorlucasbarrett/digital-fabrication-project-3-88169b900440).*
 
-<a href="https://medium.com/@taylorlucasbarrett/digital-fabrication-project-3-88169b900440"><img src="https://github.com/taylorbarrett/spiral-lamp/blob/master/IMG_20200304_125509.jpg" width="100%" alt="spiral_lamp"></a>
+<a href="https://medium.com/@taylorlucasbarrett/digital-fabrication-project-3-88169b900440"><img src="https://github.com/taylorbarrett/spiral-lamp/blob/master/IMG_20200304_125510.jpg" width="100%" alt="spiral_lamp"></a>
